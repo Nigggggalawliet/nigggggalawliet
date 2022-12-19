@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Hi 👋, IT'S ME LAWLIET</h1>
-<h3 align="center"> A NUB DEVELOPER</h3>
+<h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigggggalawliet&label=Profile%20views&color=0e75b6&style=flat" alt="nigggggalawliet" /> </p>
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **NEW DEVS**
 
-- 💬 Ask me about **MY NUMBER TwT**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **itsmelawliet1@gmail.com**
 
